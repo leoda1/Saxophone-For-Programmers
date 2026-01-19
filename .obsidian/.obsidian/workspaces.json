@@ -1,0 +1,215 @@
+{
+  "workspaces": {
+    "liuda": {
+      "main": {
+        "id": "9606181accb0d3d1",
+        "type": "split",
+        "children": [
+          {
+            "id": "269f023c00a68dd6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e258adb615b57777",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "RDMA/question/RC && DCT&&DCI.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "RC && DCT&&DCI"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b427de94fd2764d1",
+        "type": "split",
+        "children": [
+          {
+            "id": "58e8e58568fa9004",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "492d0704306e8495",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "09167b16ad5449bb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "fc1e2eea7396b84a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 241.50247192382812
+      },
+      "right": {
+        "id": "630db56413f9524c",
+        "type": "split",
+        "children": [
+          {
+            "id": "1ed45c6755b20ea9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7da144a0b6db41a6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "NCCL Stucture/modify/P2p and psmP2p topo connect.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "P2p and psmP2p topo connect 的反向链接列表"
+                }
+              },
+              {
+                "id": "485e3e74204c176a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "NCCL Stucture/modify/P2p and psmP2p topo connect.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "P2p and psmP2p topo connect 的出链列表"
+                }
+              },
+              {
+                "id": "8a498df6d2fe06fb",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "6a8e7893a6163abb",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              },
+              {
+                "id": "2e7bf41f8a3f17ff",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "RDMA/question/RC && DCT&&DCI.md",
+                    "followCursor": false,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "RC && DCT&&DCI 的大纲"
+                }
+              },
+              {
+                "id": "07e4080426da9f87",
+                "type": "leaf",
+                "state": {
+                  "type": "mermaid-toolbar-view",
+                  "state": {},
+                  "icon": "trident-custom",
+                  "title": "Mermaid Toolbar"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 312.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:创建新数据库": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "ace-code-editor:打开css片段管理器": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "e258adb615b57777",
+      "mtime": "2025-11-21T18:03:55+08:00"
+    }
+  },
+  "active": "liuda"
+}

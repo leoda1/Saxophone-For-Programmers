@@ -1,0 +1,22 @@
+/*
+ * 自定义标题大小 (H1, H2, H3)
+ * 增加标题在阅读视图和实时预览模式下的尺寸
+ */
+
+/* H1 标题 (一级标题) */
+.markdown-preview-view h1, 
+.cm-s-obsidian .HyperMD-header-1 {
+  font-size: 1.7em !important; /* 原始值通常在 2.4em ~ 2.6em 左右，可以适当增大 */
+}
+
+/* H2 标题 (二级标题) */
+.markdown-preview-view h2,
+.cm-s-obsidian .HyperMD-header-2 {
+  font-size: 1.5em !important; /* 原始值通常在 2.0em 左右 */
+}
+
+/* H3 标题 (三级标题) */
+.markdown-preview-view h3,
+.cm-s-obsidian .HyperMD-header-3 {
+  font-size: 1.3em !important; /* 原始值通常在 1.7em 左右 */
+}

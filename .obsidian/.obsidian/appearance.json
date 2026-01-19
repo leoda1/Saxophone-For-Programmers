@@ -1,0 +1,26 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "mermaid-minimal",
+    "custom_code_style",
+    "notion-a4",
+    "mermaid",
+    "indent-2",
+    "heading",
+    "highlight",
+    "code",
+    "【阿岚】隐藏侧边栏",
+    "【阿岚】自定义列表前缀"
+  ],
+  "accentColor": "#ae6ffb",
+  "textFontFamily": "",
+  "translucency": true,
+  "showRibbon": true,
+  "monospaceFontFamily": "Al Tarikh",
+  "nativeMenus": false,
+  "interfaceFontFamily": "American Typewriter",
+  "baseFontSizeAction": false,
+  "baseFontSize": 14,
+  "showViewHeader": true
+}

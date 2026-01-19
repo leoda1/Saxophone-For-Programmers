@@ -1,0 +1,7 @@
+/* 在深色模式下，强制 Mermaid 图表显示为浅色背景 */
+.theme-dark .mermaid {
+    /* 1. 先设置背景为黑色 (因为我们要反转它) */
+    background-color: #000000; 
+    /* 2. 反转颜色：黑背景变白，白线条变黑 */
+    filter: invert(1) hue-rotate(180deg);
+}
